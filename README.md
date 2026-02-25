@@ -1,4 +1,4 @@
-# Unlocking-Retail-Purchase-Patterns-Market-Basket-Analysis-with-Apriori
+# Unlocking Retail Purchase Patterns Market Basket Analysis with Apriori Algorithm
 ***
 ## 📌 Executive Summary
 
