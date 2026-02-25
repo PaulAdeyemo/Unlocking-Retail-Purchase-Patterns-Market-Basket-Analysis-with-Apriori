@@ -102,7 +102,7 @@ Identify frequent itemsets and strong association rules that reveal meaningful p
 1. High Lift (≥ 3)
 
 2. Strong Confidence (≥ 30%)
-***
+
 #### *Example Insight:*
 Certain themed product sets (e.g., matching lunch boxes and snack boxes) show strong co-purchase behavior, indicating potential for:
 
