@@ -118,22 +118,22 @@ High lift values indicate that these product combinations occur significantly mo
 
 This analysis supports:
 
-✅ Cross-selling strategy
-✅ Product bundling decisions
-✅ Inventory planning
-✅ Promotion optimization
-✅ Recommendation system logic
-✅ Customer purchasing pattern insights
+- ✅ Cross-selling strategy
+- ✅ Product bundling decisions
+- ✅ Inventory planning
+- ✅ Promotion optimization
+- ✅ Recommendation system logic
+- ✅ Customer purchasing pattern insights
 
-Retail managers can use these insights to:
+*Retail managers can use these insights to:*
 
-Increase average basket size
+- Increase average basket size
 
-Improve conversion rates
+- Improve conversion rates
 
-Personalize product recommendations
+- Personalize product recommendations
 
-Optimize store layout (online & physical)
+- Optimize store layout (online & physical)
 ***
 ### Next Steps
 
