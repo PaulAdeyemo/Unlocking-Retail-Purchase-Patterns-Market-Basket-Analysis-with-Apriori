@@ -1,12 +1,12 @@
 # Unlocking Retail Purchase Patterns Market Basket Analysis with Apriori Algorithm
 ***
-## 📌 Executive Summary
+##  Executive Summary
 
 This project applies Market Basket Analysis to an online retail dataset to uncover product purchasing patterns among customers in Germany. Using the Apriori algorithm and association rule mining, the analysis identifies frequently purchased item combinations and strong product associations based on lift and confidence metrics.
 
 The insights generated can support cross-selling strategies, product bundling, promotion design, and recommendation systems to increase average order value and customer engagement.
  ***
-### 🎯 Problem Statement
+###  Problem Statement
 
 - Retail businesses often struggle to understand:
 
